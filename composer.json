@@ -1,0 +1,14 @@
+{
+    "name": "millsoft/monolog-to-loggly",
+    "authors": [
+        {
+            "name": "Michael Milawski",
+            "email": "millsoftspambot2@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23",
+        "wazaari/monolog-mysql": "^1.0",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
